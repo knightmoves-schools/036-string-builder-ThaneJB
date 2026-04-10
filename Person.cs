@@ -15,6 +15,6 @@ public class Person {
       StringBuilder fullname = new StringBuilder($"{firstName}");
       fullname.Append($" {lastName}");
 
-      return fullname.ToString;
+      return fullname.ToString();
    }
 }
