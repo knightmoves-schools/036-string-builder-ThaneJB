@@ -1,5 +1,6 @@
 ﻿namespace knightmoves;
 
+using System.Text;
 public class Person {
    private string firstName;
    private string lastName;
